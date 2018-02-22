@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LABA3_FILES</string>
+    <string name="russian_word">Русское слово</string>
+    <string name="english_word">Перевод на английский</string>
+    <string name="get_translate">Получить перевод</string>
+    <string name="save_translate">Добавить в словарь</string>
+    <string name="FirstTime">Приложение запущено первый раз</string>
+</resources>
